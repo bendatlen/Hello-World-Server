@@ -1,0 +1,14 @@
+{
+  "name": "hellworldserver",
+  "version": "1.0.0",
+  "description": "Basic  \"hello World\" Express web server",
+  "main": "hello_world_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ben.datlen@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
